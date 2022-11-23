@@ -1,0 +1,24 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/viljem/ECMAScript.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "platzi"
+  ],
+  "author": "Guillermo Quiñones <console.writeline@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viljem/ECMAScript/issues"
+  },
+  "homepage": "https://github.com/viljem/ECMAScript#readme"
+}
