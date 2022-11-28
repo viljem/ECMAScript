@@ -17,6 +17,7 @@
   ],
   "author": "Guillermo Quiñones <console.writeline@hotmail.com>",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/viljem/ECMAScript/issues"
   },
